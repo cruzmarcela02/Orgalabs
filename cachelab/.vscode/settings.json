@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "cache.h": "c",
+    "bitset": "c",
+    "string.h": "c"
+  },
+  "editor.inlineSuggest.showToolbar": "onHover"
+}

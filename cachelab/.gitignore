@@ -1,0 +1,4 @@
+*.pyc
+*.o
+cachesim
+.DS_Store
